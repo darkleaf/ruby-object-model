@@ -1,4 +1,6 @@
 {
+  "name": "ruby-object-model",
+  "version": "0.0.1",
   "dependencies": {
     "lodash": "^2.4.1"
   }
